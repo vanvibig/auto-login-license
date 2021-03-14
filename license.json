@@ -1,8 +1,26 @@
 {
-    "vi": 1,
-    "hien": 1,
-    "tai": 1,
-    "ly": 1,
-    "phuoc": 1,
-    "yen": 1
+    "vi": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    },
+    "hien": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    },
+    "tai": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    },
+    "ly": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    },
+    "phuoc": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    },
+    "yen": {
+        "message": "Your license is provided by Vi\nIt can be terminated anytime.",
+        "activated": 1
+    }
 }
